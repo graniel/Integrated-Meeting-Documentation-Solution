@@ -36,6 +36,12 @@ Ideal für Unternehmen, Behörden und alle Organisationen mit hohen Datenschutza
   - Entscheidungen "Wenn es Entscheidungen gab, fasse diese hier kurz zusammen"
   - Aufgaben / To-Dos "Wenn Aufgaben / To-Dos verteilt wurden, liste diese hier auf"
  
-Siehe Beispiel Meeting Protokoll
+Siehe Beispiel Meeting Protokoll.pdf
+
+### UI
+- Status Anzeige (vor und während des Meetings, Verarbeitung...)
+- Screen für Protokoll, Screen für Transkript. Export Button.
+- Overview Screen über History (alle Protokolle, die bis dahin erstellt wurden)
+
 ---
 
