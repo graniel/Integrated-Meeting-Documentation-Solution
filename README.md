@@ -36,6 +36,6 @@ Ideal für Unternehmen, Behörden und alle Organisationen mit hohen Datenschutza
   - Entscheidungen "Wenn es Entscheidungen gab, fasse diese hier kurz zusammen"
   - Aufgaben / To-Dos "Wenn Aufgaben / To-Dos verteilt wurden, liste diese hier auf"
  
-
+Siehe Beispiel Meeting Protokoll
 ---
 
